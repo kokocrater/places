@@ -1,0 +1,80 @@
+body {
+    background-color: #16441D;
+}
+
+a {
+    /*changes all links to white, from default blue*/
+    color: white;
+}
+
+.banner {
+    margin: auto;
+    background-image: url(images/banner.jpg);
+    height: 467px;
+    width: 925px;
+    border: 4px solid #989998;
+    border-radius: 10px;
+    color: white;
+    font-family: tahoma;
+    font-size: 50px;
+}
+
+.banner-text {
+    color: white;
+    font-family: tahoma;
+}
+
+#places {
+    padding-top: 55px;
+    padding-left: 20px;
+}
+
+.largetext {
+        color: white;
+    font-family: impact;
+    font-size: 20px;
+}
+.smalltext {
+    color: white;
+    font-family: verdana;
+    font-size: 15px;
+    text-indent: 20px;
+    padding-bottom: 50px;
+    
+}
+
+.list {
+    color: white;
+    font-family: impact;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-right: 15px;
+    border: 4px solid #989998;
+    border-radius: 10px;
+    margin-left: 10%;
+}
+
+.all-lists {
+    /*allows lists to be side by side and to
+    change with width of window*/
+    display: flex;
+}
+
+#coast {
+    background-color: #098388;
+    /*background-color: #98710A;*/
+}
+
+#mountains {
+    background-color: #A52A2A;
+}
+
+#desert {
+    background-color: #E6BD00;
+}
+
+/*.quote {
+    font-family: verdana;
+    font-size: 12px;
+    font-style: italic;
+}*/
