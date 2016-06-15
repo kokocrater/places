@@ -1,0 +1,12 @@
+full screen - 1331px
+jumbotron width @ full screen = 1331px * .81 = 1078px
+jumbotron height = 295px
+aspect ratio = 1078px / 295px = 3.65
+
+breakpoint =750px
+jumbotron width = 750px * .81 = 608px
+jumbotron height = 608px / 3.65 = 167px
+
+breakpoint = 435px
+jumbotron width = 435 * .81 = 352px
+jumbotron height = 352px / 3.65 = 96px
